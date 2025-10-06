@@ -1,4 +1,3 @@
-````markdown
 # MNIST Digit Classification using Feedforward Neural Network
 
 This project implements a **feedforward neural network (multilayer perceptron, MLP)** in PyTorch to classify handwritten digits from the MNIST dataset. It also includes functionality to test the model on custom JPG images.
@@ -41,7 +40,6 @@ Install dependencies:
 ```bash
 pip install torch torchvision numpy pillow scikit-learn
 ```
-````
 
 ---
 
